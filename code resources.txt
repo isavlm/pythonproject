@@ -1,0 +1,15 @@
+Code Line 12: 
+
+For this program we are using the ASCII Code, more
+specifically the UPPER case ones, for that we want the letters from 65 to 90. 
+So, when random.randint(65, 90) is used, it generates a random integer between 65 and 90 (inclusive),
+and chr converts that integer to the corresponding uppercase letter. This is why the range 65 to 90 
+is used to simulate the random selection of uppercase letters for the Scrabble tiles.
+https://www.prepbytes.com/blog/general/ascii-values-of-alphabet/#:~:text=The%20ASCII%20values%20for%20uppercase,range%20from%2097%20to%20122.
+
+#####
+Code line 20 - The f- string see Murach's Python Programming 2nd edition, pg 44-45.
+
+#####
+
+
